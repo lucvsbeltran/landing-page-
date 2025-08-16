@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.card img {
+  object-fit: cover;
+  height: 200px;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
